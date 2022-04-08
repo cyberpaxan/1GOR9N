@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Igor aka @cyberpaxan
+- 👀 I’m interested in Web Development and technology
+- 🌱 I’m currently learning Python and JavaScript
+- 📫 How to reach me igorl098765@gmail.com
